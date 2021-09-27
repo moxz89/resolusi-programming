@@ -2,3 +2,4 @@ Resolusi Belajar Programming
 - Belajar bahasa pemrograman Flutter
 - Konsisten belajar tiap hari
 - Tahun ini bisa membuat aplikasi sederhana dengan flutter
+- Tahun ini bisa mengerti konsep pemrograman flutter
